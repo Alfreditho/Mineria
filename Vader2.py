@@ -38,7 +38,7 @@ mensajes = [
     "felicitaciones a bukele y a la gente que lo llevó a ganar la presidencia. la verdad, mis respetos, es el mejor presidente de todo el continente americano.",
     "aplaudo el excelente trabajo que están haciendo el presidente nayib bukele, su equipo de gobierno y las instituciones que representan la ley y el orden de nuestro país. el régimen de excepción debe mantenerse vigente todo el tiempo que sea necesario para poder combatir eficazmente la delincuencia y así garantizar el bienestar y tranquilidad de nuestro pueblo.",
     "se huele el bien ahí, más limpio, libres por fin.",
-    "bukele 2024.",
+    "bukele 2025.",
     "gracias a dios porque nuestro presidente fue enviado por dios. eso es lo que necesitábamos y lo necesitamos siempre, que toda persona que ande haciendo lo malo será castigada por la ley.",
     "es imperativo la pronta instauración de la pena capital en el salvador. solo así haremos prevalecer la justicia y un verdadero estado de derecho en el cual sea prioridad el respeto a la vida, la dignidad y el bienestar del pueblo salvadoreño.",
     "la política es bien difícil... está buena esa conclusión de la señora.",
