@@ -48,3 +48,14 @@ plt.ylabel("Frecuencia")
 plt.title("Frecuencia de palabras en los comentarios")
 plt.xticks(rotation=45)
 plt.show()
+
+#Comentario de brandon
+#HOla xdxd
+
+plt.figure(figsize=(10, 5))
+sns.barplot(x=frecuencia_palabras.head(10).index, y=frecuencia_palabras.head(10).values, palette="viridis")
+plt.xlabel("Palabras")
+plt.ylabel("Frecuencia")
+plt.title("Frecuencia de palabras en los comentarios")
+plt.xticks(rotation=45)
+plt.show()
